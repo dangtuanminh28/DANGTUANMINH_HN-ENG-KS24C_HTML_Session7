@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.accordion-button {
+    background-color: #f8f9fa;
+    color: #333;
+    font-weight: bold;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #d0e2ff;
+    color: #000;
+}
+
+.accordion-body {
+    font-size: 14px;
+    color: #555;
+}
